@@ -1,0 +1,67 @@
+.des {
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    border: 2px solid red;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+.contenair{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    margin-left: 50px;
+    background-color: bisque;
+    width: 200px;
+}
+.premier {
+    margin-top: 10px;
+}
+.points {
+    border: 3px solid red;
+    border-radius: 80%;
+}
+#face_1 {
+    align-items: center;
+}
+#face_2 {
+    align-items: center;
+    justify-content: space-around;
+}
+#face_3 {
+    align-items: center;
+    justify-content: space-around;
+}
+#face_4 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly; 
+    
+}
+#face_5 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}#face_6 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.points_6 {
+justify-content: space-around;
+
+}
+
+
+
+
+
